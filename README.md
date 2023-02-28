@@ -1,7 +1,7 @@
 # paper
 조금이라도 읽어본 논문 리스트입니다. Keywords는 자의적인 기준에 의해 분류된 것이니 참고만 하시길 바랍니다.
 
-This repo is about the list of papers which I've read a little bit. Keywords are for your information(arbitary criteria).
+This repo is about the list of papers which I've read a little bit. Keywords are for your information, i.e. they are classified by arbitary criteria.
 
 | Tasks | Paper | Link | Keywords |
 |:---------------|:-------------:|:-------------:|-------------:|
