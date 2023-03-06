@@ -13,3 +13,4 @@ This repo is about the list of papers which I've read a little bit. Keywords are
 | NLP | Can Large Language Models Truly Understand Prompts? A Case Study with Negated Prompts |[Paper](https://arxiv.org/pdf/2209.12711.pdf)|TBD|
 | NLP | Language Is Not All You Need: Aligning Perception with Language Models |[Paper](https://arxiv.org/pdf/2302.14045v1.pdf)|MLLM, TBD|
 | NLP | Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer |[Paper](https://arxiv.org/pdf/1910.10683.pdf)|T5, TBD|
+| NLP | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding |[Paper](https://arxiv.org/pdf/1810.04805.pdf)|BERT, TBD|
